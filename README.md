@@ -4,7 +4,7 @@ Introduction
 
 Hi there, thanks for stopping by! I'm CJ, a data analytics consultant, based on the east coast. I am passionate about the function of organizations, systems and society. My mission is to harness the power of data to meet needs. Daily, I work to use data (spatial, observational, numerical) to sift through noise, and get at the heart of challenges. I strive to make that which is complex simple, amd bring clarity to ambiguity. 
 
-My vision is 
+My vision is a world where data-driven insights are used to foster harmony and efficiency, transcending service level conflicts and addressing the root causes of discord.
 
 Background
 
