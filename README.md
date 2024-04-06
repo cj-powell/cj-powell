@@ -23,8 +23,3 @@ I'm driven by problem solving, and quite passionate about the function of organi
 
 I enjoy exploring new places, desgin and TikTok.
 
-Find me around the web 🌎
-
-Sharing updates on LinkedIn 💼
-
-🐦 https://twitter.com/@ahobby9 Twitter
