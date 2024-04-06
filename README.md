@@ -1,10 +1,6 @@
 # bio
 
-Introduction
-
-Hi there, thanks for stopping by! I'm CJ, a data analytics consultant, based on the east coast. I am passionate about the function of organizations, systems and society. My mission is to harness the power of data to meet needs. Daily, I work to work with data (spatial, observational, numerical) to solve problems. I strive to make complex data problems seem simple, and bring clarity to ambiguity. 
-
-My vision is a world where data-driven insights are used to foster harmony and efficiency, transcending service level conflicts and addressing the root causes of (organizational, societal, relationsional) discord.
+Welcome, and thanks for stopping by! I'm CJ. I'm currently working as a Data Analytics Consultant, for a firm based in the Washington-Baltimore region. Daily, I work to work with data (spatial, observational, numerical) to solve problems. I strive to make complex data problems seem simple, and bring clarity to ambiguity. 
 
 Background
 
@@ -12,20 +8,18 @@ I have over 10 years of experience in public administration. Previosly, I worked
 
 I've worked on a bunch of different teams and projects, including:
 
-    US Department of Commerces DMV Regional Equity and Growth Playbook
-    Bill and Melinda Gates' Integrated Planning and Advising for Student Success (iPASS) GrantCancer: Built decision tree model to predict the cost of cancer care for breast cancer patients
-    Maryland’s Safe and Supportive Schools (MDS3) Initiative: Fraud: Designed 5 fraud detection models that saved a government agency over 500 million dollars
-    US Census Buraueas Governments Division Historical Data Digitization Project Infectious Disease: Built an infectious disease lab testing dashboard in Tableau for a state with the population of 1 million residents.
+US Department of Commerces DMV Regional Equity and Growth Playbook
+Bill and Melinda Gates' Integrated Planning and Advising for Student Success (iPASS) GrantCancer: Built decision tree model to predict the cost of cancer care for breast cancer patients
+Maryland’s Safe and Supportive Schools (MDS3) Initiative: Fraud: Designed 5 fraud detection models that saved a government agency over 500 million dollars
+US Census Buraueas Governments Division Historical Data Digitization Project Infectious Disease: Built an infectious disease lab testing dashboard in Tableau for a state with the population of 1 million residents.
 
 👩🏾‍🎓 Education
 
-Recently, I successfully completed a Data Science Fellowship which increased my capacity and drive to serve the complex needs of varying organizational contexts. A key deliverry was using Machine Learning to optimize the bidding strategey for Root Insurance company, having no prior industry (marketing) experience.
+I completed a Data Science Fellowship with Honors in 2022. Prior to that I obtained a Certificate in Systems Thinking from Cornell University. For undergraduate, I gratuated from Temple University where I studied Sociology, SPSS, and minored in Geography GIS.
 
-I got my MS in Epidemiology from Georgetown University with a Certificate in Data Science. For undergraduate, I graduated from Wellesley College. Incoming doctoral student at Johns Hopkins School of Public Health in June 2024.
-✏ Recent Data Science Articles
+Personal
 
-    Race Correction in Kidney Function Algorithms and Disparities in Kidney Transplant Wait List Time
-
+I'm driven by problem solving, and quite passionate about the function of organizations, systems and society. My mission is to harness the power of data to meet the needs of our growing world. My vision is a world where data-driven insights are used to foster harmony and efficiency, transcending service level conflicts and addressing the root causes of (organizational, societal, relationsional) discord.
 
 I enjoy exploring new places, desgin and TikTok.
 
