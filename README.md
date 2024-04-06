@@ -4,7 +4,7 @@ Welcome, and thanks for stopping by! I'm CJ. I'm currently working as a Data Ana
 
 Background
 
-I have over 10 years of experience in public administration. Previosly, I worked at ATD for several years on the Data, Technology and Analytics team. Before then, I worked at serveral other national and international organizations including Save the Children, Urban Alliance, and the United States Census Bureau in public facing operations and data management. I additionally worked in marketing, university research.
+I have over 10 years of experience in public administration. Previosly, I worked at ATD for several years on the Data, Technology and Analytics team. Before then, I worked at serveral other national and international organizations including Save the Children, Urban Alliance, and the United States Census Bureau in administration and data management. I additionally worked in marketing, university research.
 
 I've worked on a bunch of different teams and projects, including:
 
@@ -13,9 +13,9 @@ Bill and Melinda Gates' Integrated Planning and Advising for Student Success (iP
 Maryland’s Safe and Supportive Schools (MDS3) Initiative: Fraud: Designed 5 fraud detection models that saved a government agency over 500 million dollars
 US Census Buraueas Governments Division Historical Data Digitization Project Infectious Disease: Built an infectious disease lab testing dashboard in Tableau for a state with the population of 1 million residents.
 
-👩🏾‍🎓 Education
+Education
 
-I completed a Data Science Fellowship with Honors in 2022. Prior to that I obtained a Certificate in Systems Thinking from Cornell University. For undergraduate, I gratuated from Temple University where I studied Sociology, SPSS, and minored in Geography GIS.
+I completed a Data Science Fellowship with Honors in 2022. Prior to that I obtained a Certificate in Systems Thinking from Cornell University. For undergraduate, I gratuated from Temple University with dinstinction in Sociology, and minored in Geography where I got my foundation in analytics through SPSS and GIS.
 
 Personal
 
