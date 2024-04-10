@@ -1,12 +1,12 @@
 # bio
 
-Welcome, and thanks for stopping by! I'm CJ. I'm currently working as a Data Analytics Consultant, for a firm based in the Washington-Baltimore region. Daily, I work to work with data (spatial, observational, numerical) to solve problems. I strive to make complex data problems seem simple, and bring clarity to ambiguity. 
+Welcome, and thank you for stopping by my "hub"! I'm affectionately known as CJ, and daily, I work to work with data (location data, traffic data, demongraphic data, sales data, etc.) to solve problems. I make complex data problems simple for organizations and communities, and with this brings clarity to ambiguity. 
 
 Background
 
-I have over 10 years of experience in public administration. Previosly, I worked at ATD for several years on the Data, Technology and Analytics team. Before then, I worked at serveral other national and international organizations including Save the Children, Urban Alliance, and the United States Census Bureau in administration and data management. I additionally worked in marketing, university research.
+I have over 10 years of experience in public administration. Previosly, I worked at ATD for several years where I was promoted to Assistant Director of the Data, Technology and Analytics team. Before that time, I worked in administration and data management at nationally and internationally recognized organizations such as Save the Children, Urban Alliance, and the United States Census Bureau. 
 
-I've worked on a bunch of different teams and projects, including:
+I've worked on a bunch of different teams and projects, for both the public and pr including in  marketing and univeristy research:
 
 US Department of Commerces DMV Regional Equity and Growth Playbook
 Bill and Melinda Gates' Integrated Planning and Advising for Student Success (iPASS) GrantCancer: Built decision tree model to predict the cost of cancer care for breast cancer patients
