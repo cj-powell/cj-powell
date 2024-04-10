@@ -1,10 +1,12 @@
 # bio
 
-Welcome, and thank you for stopping by my "hub"! I'm affectionately known as CJ, and daily, I work to work with data (location data, traffic data, demongraphic data, sales data, etc.) to solve problems. I make complex data problems simple for organizations and communities, and with this brings clarity to ambiguity. 
+Welcome, and thank you for stopping by my "hub"! I'm affectionately known as CJ, and daily, I work to work with data (location data, traffic data, demongraphic data, sales data, etc.) to solve problems. I am highly skilled at making complex problems (given the scale, resources available, and overall scope) feasible for organizations and communities to address. My efforts bring clarity to ambiguity and they foster the intentionality neccessary for organizations to not only strive to achive their missions, but actualize the desired outcomes they are seeking.
 
 Background
 
 I have over 10 years of experience in public administration. Previosly, I worked at ATD for several years where I was promoted to Assistant Director of the Data, Technology and Analytics team. Before that time, I worked in administration and data management at nationally and internationally recognized organizations such as Save the Children, Urban Alliance, and the United States Census Bureau. 
+
+I've worked on a bunch of different teams and projects, for both the public and pr including in  marketing and univeristy research:
 
 I've worked on a bunch of different teams and projects, for both the public and pr including in  marketing and univeristy research:
 
