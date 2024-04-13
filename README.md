@@ -10,11 +10,11 @@ I have over 10 years of experience in public administration. Previosly, I worked
 
 I've worked on a bunch of different projects and teams, some of which I've highlighted below:
 
-* US Department of Commerces' DMV Regional Equity and Growth Playbook: Sourced, processed and analyzed data to develop an interactive platform for users to explore findings of analysis
+* US Department of Commerce's DMV Regional Equity and Growth Playbook: Sourced, processed and analyzed data to develop an interactive platform for users to explore findings of analysis
 * ROOT Inc.'s Marketing Bidding Strategy Optimization: Built a random forest classification model to ensure that for every 10,000 ads shown, at least 400 customers are acquired
-* Bill and Melinda Gates Foundations' Integrated Planning and Advising for Student Success (iPASS): Provided technical assistance for 10 institutions with Early alert, Risk targeting systems, Progress roadmaps and tracking systems, Relationship management systems (CRM), Retention management, Communication tools, Student intake surveys, Data warehouses, Reporting and analytics, Predictive modeling, and Advisor and student dashboards
+* Bill and Melinda Gates Foundation's Integrated Planning and Advising for Student Success (iPASS): Provided technical assistance for 10 institutions with Early alert, Risk targeting systems, Progress roadmaps and tracking systems, Relationship management systems (CRM), Retention management, Communication tools, Student intake surveys, Data warehouses, Reporting and analytics, Predictive modeling, and Advisor and student dashboards
 * State of Maryland’s Safe and Supportive Schools (MDS3) Initiative: Utilized ASSIST and Double Check research methods to evaluate and implement evidence-based instruction practices and bullying prevention in Maryland public schools
-* US Census Buraueas' Governments Division Historical Data Digitization Project: Carefully managed and produced data records in an online format for Census data users
+* US Census Bureau's Governments Division Historical Data Digitization Project: Carefully managed and produced data records in an online format for Census data users
 
 **Education**
 
