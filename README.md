@@ -6,7 +6,7 @@ Welcome, and thank you for stopping by my "hub"! I'm affectionately known as CJ,
 
 **Background**
 
-I have over 10 years of experience in public administration. Previosly, I worked at Achieving the Dream (ATD) for several years where I was promoted to Assistant Director of the Data, Technology and Analytics team. Before that time, I worked in data management and administration at (inter)nationally recognized organizations such as Save the Children, Johns Hopkins University, Urban Alliance and the United States Census Bureau. 
+I have over 10 years of experience in public administration. Previosly, I worked at Achieving the Dream (ATD) for several years where I was promoted to Assistant Director of the Data, Technology and Analytics. Before that time, I worked in data management and administration at (inter)nationally recognized organizations such as Save the Children, Johns Hopkins University, Urban Alliance and the United States Census Bureau. 
 
 I've worked on a bunch of different projects and teams, some of which I've highlighted below:
 
@@ -18,7 +18,7 @@ I've worked on a bunch of different projects and teams, some of which I've highl
 
 **Education**
 
-In April of 2022, I completed a Data Science Fellowship, internationally recognized as one of the highest-rated data training programs in the world. Prior to my fellowship, I gained a Certificate in Systems Thinking from Cornell University. I hold a Bachelor of Arts degree, with distinction in Sociology and a minor in Georgaphy, where I established a foundation in Data Analysis through SPSS and an introduction to GIS.
+In April of 2022, I completed a Data Science Fellowship, internationally recognized as one of the highest-rated data training programs in the world. Prior to my fellowship, I gained a Certificate in Systems Thinking from Cornell University. I hold a Bachelor of Arts degree, with distinction from Temple University where I obtained skills in Data Analysis (SPSS), Research Methods, and Statistical Methods.
 
 **Mission**
 
