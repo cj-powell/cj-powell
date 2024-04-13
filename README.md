@@ -18,7 +18,7 @@ I've worked on a bunch of different projects and teams, some of which I've highl
 
 **Education**
 
-In April of 2022, I completed a Data Science Fellowship, internationally recognized as one of the highest-rated data training programs in the world. Prior to my fellowship, I gained a Certificate in Systems Thinking from Cornell University. I hold a Bachelor of Arts degree, with distinction in Sociology and a minor in Georgaphy, where I established a foundation in Data Analysis through SPSS and an inrtoduction to GIS.
+In April of 2022, I completed a Data Science Fellowship, internationally recognized as one of the highest-rated data training programs in the world. Prior to my fellowship, I gained a Certificate in Systems Thinking from Cornell University. I hold a Bachelor of Arts degree, with distinction in Sociology and a minor in Georgaphy, where I established a foundation in Data Analysis through SPSS and an introduction to GIS.
 
 **Mission**
 
