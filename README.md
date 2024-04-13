@@ -27,5 +27,6 @@ I'm driven by problem solving, and quite passionate about the function of organi
 **Connect with Me**
 
 You can find me elsewhere on the web at www.linkedin.com/in/cj-powell. Happy to connect!
+
 Website coming soon!
 
