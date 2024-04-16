@@ -10,15 +10,15 @@ I have over 10 years of experience in public administration. Previosly, I worked
 
 I've worked on a bunch of different projects and teams, some of which I've highlighted below:
 
-* US Department of Commerce's DMV Regional Equity and Growth Playbook: Sourced, processed and analyzed data to develop an interactive platform for users to explore findings of analysis
-* ROOT Inc.'s Marketing Bidding Strategy Optimization: Built a random forest classification model to ensure that for every 10,000 ads shown, at least 400 customers are acquired
-* Bill and Melinda Gates Foundation's Integrated Planning and Advising for Student Success (iPASS): Provided technical assistance for 10 institutions with Early alert, Risk targeting systems, Progress roadmaps and tracking systems, Relationship management systems (CRM), Retention management, Communication tools, Student intake surveys, Data warehouses, Reporting and analytics, Predictive modeling, and Advisor and student dashboards
+* US Department of Commerce's DMV Regional Equity and Growth Playbook: Sourced, processed and analyzed data to develop an interactive platform for users to explore findings of geospatial analysis
+* ROOT Inc.'s Marketing Bidding Strategy Optimization: Built a random forest classification model to ensure that for every 10,000 ads shown to potential customers, at least 400 customers are acquired
+* Bill and Melinda Gates Foundation's Integrated Planning and Advising for Student Success (iPASS): Provided technical assistance for 10+ institutions of Higher Education with Early alert, Risk targeting systems, Progress roadmaps and tracking systems, Relationship management systems (CRM), Retention management, Communication tools, Student intake surveys, Data warehouses, Reporting and analytics, Predictive modeling, and Advisor and student dashboards
 * State of Maryland’s Safe and Supportive Schools (MDS3) Initiative: Utilized ASSIST and Double Check research methods to evaluate and implement evidence-based instruction practices and bullying prevention in Maryland public schools
 * US Census Bureau's Governments Division Historical Data Digitization Project: Carefully managed and produced data records in an online format for Census data users
 
 **Education**
 
-In April of 2022, I completed a Data Science Fellowship, internationally recognized as one of the highest-rated data training programs in the world. Prior to my fellowship, I gained a Certificate in Systems Thinking from Cornell University. I hold a Bachelor of Arts degree, with distinction from Temple University where I obtained skills in Data Analysis (SPSS), Research Methods, and Statistical Methods.
+In April of 2022, I completed a Data Science Fellowship with Correlation One, internationally recognized as one of the highest-rated data training programs in the world, achieving a certificate in Data Science with honors. In February of 2020, I obtained a Certificate in Systems Thinking from Cornell University in which I gained knowledge and expertise in examining and analyzing complex systems. I attended Temple Univerity, gaining Bachelor of Arts with distinction in Sociology and minor in Geography, where I established skills in Data Analysis (SPSS), Research Methods and Applied Statistics.
 
 **Mission**
 
@@ -27,6 +27,4 @@ I'm driven by problem solving, and quite passionate about the function of organi
 **Connect with Me**
 
 You can find me elsewhere on the web at www.linkedin.com/in/cj-powell. Happy to connect!
-
-Website coming soon!
 
