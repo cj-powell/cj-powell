@@ -18,7 +18,7 @@ I've worked on a bunch of different projects and teams, some of which I've highl
 
 **Education**
 
-In April of 2022, I completed a Data Science Fellowship with Correlation One, internationally recognized as one of the highest-rated data training programs in the world, achieving a certificate in Data Science with honors. In February of 2020, I obtained a Certificate in Systems Thinking from Cornell University in which I gained knowledge and expertise in examining and analyzing complex systems. I attended Temple Univerity, gaining Bachelor of Arts with distinction in Sociology and minor in Geography, where I established skills in Data Analysis (SPSS), Research Methods and Applied Statistics.
+In April of 2022, I completed a Data Science Fellowship with Correlation One, internationally recognized as one of the highest-rated data training programs in the world, achieving a certificate in Data Science with honors. In February of 2020, I obtained a Certificate in Systems Thinking from Cornell University in which I gained knowledge and expertise in examining and analyzing complex systems. I attended Temple Univerity, gaining Bachelor of Arts with distinction in Sociology and minor in Geography, where I established skills in Data Analysis (SPSS), Research Methods, Applied Statistics and Geospatial Analysis.
 
 **Mission**
 
