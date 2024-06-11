@@ -1,8 +1,8 @@
 # About Me
 
-**Introduction** 👋🏾
+**<p align="center">Introduction**
 
-Welcome, and thank you for stopping by my "hub"! I'm affectionately known as CJ, and daily, I work to work with data (location data, website traffic data, demongraphic data, sales data, etc.) to solve problems. I am highly skilled at making complex problems (given the scale, resources available, and overall scope) feasible for organizations and communities to address. My efforts bring clarity to ambiguity, and foster the intentionality neccessary for organizations to actualize their desired outcomes.
+<p align="center"> Welcome, and thank you for stopping by my "hub" 👋🏾 ! I'm affectionately known as CJ, and daily, I work to work with data (location data, website traffic data, demongraphic data, sales data, etc.) to solve problems. I am highly skilled at making complex problems (given the scale, resources available, and overall scope) feasible for organizations and communities to address. My efforts bring clarity to ambiguity, and foster the intentionality neccessary for organizations to actualize their desired outcomes.
 
 **Background** 📜
 
