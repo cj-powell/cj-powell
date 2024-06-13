@@ -22,7 +22,7 @@ In April of 2022, I completed a Data Science Fellowship with Correlation One, in
 
 **Mission** 🗺️
 
-I'm driven by problem solving, and quite passionate about the function of organizations, systems and society. My mission is to harness the power of data to meet the needs of our growing world. My vision is a world where data-driven insights are used to foster harmony and efficiency, transcending surface level problems and thinking to instead address foundational sources of (organizational, societal, relationsional) discord.
+I'm driven by problem solving, and quite passionate about the function of organizations, systems and society. My mission is to harness the power of data to meet the needs of our growing world. My vision is a world where data-driven insights are used to foster harmony and efficiency, transcending surface level problems and thinking to instead address foundational sources of (organizational, societal, relational) discord.
 
 **Connect with Me** 🌐
 
