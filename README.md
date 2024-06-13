@@ -4,7 +4,7 @@
 
 <p align="center"> Welcome, and thank you for stopping by my "hub"! I'm affectionately known as CJ, and daily, I work to work with data (location data, website traffic data, demongraphic data, sales data, etc.) to solve problems. I am highly skilled at making complex problems (given the scale, resources available, and overall scope) feasible for organizations and communities to address. My efforts bring clarity to ambiguity, and foster the intentionality neccessary for organizations to actualize desired outcomes.
 
-**Career** 📜
+**Career** 💼
 
 I have over 10 years of experience in public administration. Previosly, I worked at Achieving the Dream (ATD) for several years where I was promoted to Assistant Director of the Data, Technology and Analytics. Before that time, I worked in data management and administration at (inter)nationally recognized organizations such as Save the Children, Johns Hopkins University, Urban Alliance and the United States Census Bureau. 
 
